@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My name is Julian A. Cardona
+#### I'm a Software Craftsman, Web Developer and 2D Artist
+![I'm a Software Craftsman, Web Developer and 2D Artist]
 
-<!--
-**JacksVDF/JacksVDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Despite being new to the field of computing, I am interested in the technological development of the world, I am curious about artificial intelligence issues and in the future I would like to be a professional in cybersecurity.
 
-Here are some ideas to get you started:
+### My knowledge
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>"
+
+Skills: Java / Python / NodeJS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
