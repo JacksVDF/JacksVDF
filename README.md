@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Java" width="500px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=latex,ai,figma,ps" />
+    <img alt="Java" width="500px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=latex,ai,ps,figma" />
   </a>
 </p>
 
