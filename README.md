@@ -24,7 +24,7 @@
 <br/>
 
 <p align="center">
-    <b> Dev Setup</b>
+    <b> Dev Suite</b>
   <br/>
   I'm a big fan of terminal development, especially if it's bash. I like working from Linux environments (I use Arch btw) but WSL (Windows Subsystem for Linux) is slowly winning my heart and even though I'm new to Git I feel comfortable with it. My favorite code editor is Visual Studio Code because of how intuitive and friendly it is, not to mention that it has extensions for just about everything.
 </p>
